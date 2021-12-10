@@ -1,5 +1,3 @@
-from enum import Enum
-
 lines = []
 with open('input.txt') as f:
   lines = f.readlines()
